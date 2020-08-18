@@ -1,0 +1,10 @@
+,crop,thru_month,model,r2_score,rmse
+0,corn,4,RandomForestRegressor,0.123,26.75
+1,corn,6,RandomForestRegressor,0.032,28.1
+2,barley,6,GradientBoostingRegressor,0.026,9.7
+3,corn,7,RandomForestRegressor,0.097,27.14
+4,oats,7,DecisionTreeRegressor,0.212,12.55
+5,corn,8,RandomForestRegressor,0.172,26.0
+6,barley,8,BayesianRidge,0.153,9.04
+7,corn,9,RandomForestRegressor,0.138,26.52
+8,corn,10,RandomForestRegressor,0.094,27.19

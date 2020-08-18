@@ -1,0 +1,6 @@
+,crop,thru_month,model,r2_score,rmse
+0,barley,4,BayesianRidge,0.052,8.42
+1,barley,7,BayesianRidge,0.027,8.54
+2,barley,7,RandomForestRegressor,0.149,7.98
+3,barley,8,BayesianRidge,0.084,8.28
+4,barley,9,BayesianRidge,0.067,8.36
